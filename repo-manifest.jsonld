@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/rust-num/num-bigint/commit/41f0b035d12971c5c7f7501917e31f0f6439c26c",
       "git:hexsha": "41f0b035d12971c5c7f7501917e31f0f6439c26c",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/rust-num/num-bigint/commit/659c1a73c30846dc01f0e5a62b06e02691dfe824",
