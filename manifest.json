@@ -201,6 +201,67 @@
       ],
       "ast": [
         "aggregate/ast/a25836ec6c341d1aa40c97335842f330b6a62911/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/a25836ec6c341d1aa40c97335842f330b6a62911.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "num-integer",
+          "ecosystem": "CARGO",
+          "version": "0.1.46",
+          "githubOrg": "rust-num",
+          "githubRepo": "num-integer",
+          "githubCommit": "ede2d2cb993e55e7b1c992bfd22ecbf16601a652",
+          "githubTag": "num-integer-0.1.46",
+          "githubUrl": "https://github.com/rust-num/num-integer",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "num-traits",
+          "ecosystem": "CARGO",
+          "version": "0.2.18",
+          "githubOrg": "rust-num",
+          "githubRepo": "num-traits",
+          "githubCommit": "eb20b4022c2dd8191ddd1160399d927886830764",
+          "githubTag": "num-traits-0.2.18",
+          "githubUrl": "https://github.com/rust-num/num-traits",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "rand",
+          "ecosystem": "CARGO",
+          "version": "0.8",
+          "githubOrg": "rust-random",
+          "githubRepo": "rand",
+          "githubUrl": "https://github.com/rust-random/rand",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "serde",
+          "ecosystem": "CARGO",
+          "version": "1.0",
+          "githubOrg": "serde-rs",
+          "githubRepo": "serde",
+          "githubUrl": "https://github.com/serde-rs/serde",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "quickcheck",
+          "ecosystem": "CARGO",
+          "version": "1",
+          "githubOrg": "BurntSushi",
+          "githubRepo": "quickcheck",
+          "githubUrl": "https://github.com/BurntSushi/quickcheck",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "arbitrary",
+          "ecosystem": "CARGO",
+          "version": "1",
+          "githubOrg": "rust-fuzz",
+          "githubRepo": "arbitrary",
+          "githubUrl": "https://github.com/rust-fuzz/arbitrary/",
+          "source": "build_file:Cargo.toml"
+        }
       ]
     }
   ],
