@@ -3,6 +3,11 @@
   "repo": "num-bigint",
   "versions": [
     {
+      "commit": "a25836ec6c341d1aa40c97335842f330b6a62911",
+      "tag": "num-bigint-0.4.6",
+      "parsed_at": "2026-11-22T01:21:59.377006+00:00"
+    },
+    {
       "commit": "41f0b035d12971c5c7f7501917e31f0f6439c26c",
       "tag": "",
       "parsed_at": "2026-11-10T06:58:50.347652+00:00"
